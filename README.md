@@ -1,5 +1,6 @@
 <h1>Nicolau Navarro</h1>
 Fontend developer & designer
+<p>contact<p>
 
 <!---
 NicolauNavarro/NicolauNavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
