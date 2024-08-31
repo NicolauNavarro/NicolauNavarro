@@ -1,5 +1,6 @@
 <h1>Nicolau Navarro</h1>
-Fontend developer & designer
+Font-end developer & UX UI designer
+<small>Creating solutions that fits your demands</small>
 
 
 <!---
