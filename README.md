@@ -1,42 +1,40 @@
-<!--<h1>Nicolau Navarro</h1>
-Font-end developer & UX UI designer
-<br>
-<small>Creating solutions that fits your demands</small>
-
-<h3>What I create</h3>
-I'm specialized in web development and creating both interacitve but most importantly, intuitive frontend plataforms.<br>
-I develop web aplications working with modern frameworks and having fun with APIs and components.
-
-<h3>Which tools do i use</h3>
-- this <br>
--this
-  -this-->
-
-> Creating solutions that fits your demands
 # Nicolau Navarro
-I'm a Front-end developer & UX UI designer specialized in web solutions.
 
-### What I create
-I'm specialized in web development and creating both interacitve but most importantly, intuitive frontend plataforms.<br>
-I develop web aplications working with modern frameworks and having fun with APIs and components.
+Web Application Developer focused on building scalable, production-grade systems with strong emphasis on usability, performance, and real-world business impact.
 
-### Which tools do i use
-I have used many tools so far but this are the ones i stick most to
-- [X] React
-- [X] Node.js
-- [X] Next.js
-- [X] Express.js
-- [X] Astro
-- [X] Tilwind.css
-- [X] Typscript
- 
-While also sticking to the basics
-- [X] Plain HTML
-- [X] Plain CSS
-- [X] Valilla Javascript 
+I design and develop full-stack applications end-to-end, combining solid system architecture with high-quality UX/UI engineering. My work centers around complex platforms such as event management and ticketing systems, where reliability, data consistency, and user experience directly affect revenue and operations.
 
+## Approach
 
-<!---
-NicolauNavarro/NicolauNavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I prioritize:
+- Scalable system design and clean data modeling  
+- High-performance, responsive interfaces  
+- Practical, user-centered UX decisions over visual noise  
+- Maintainable codebases built for long-term iteration  
+
+## Technical Stack
+
+- **Core:** TypeScript, JavaScript  
+- **Frameworks:** Next.js, React, Astro  
+- **Backend & Data:** Node.js, Prisma, MongoDB  
+- **Infrastructure & Tools:** Clerk, Supabase, Vercel  
+- **Other:** REST APIs, system design, database architecture  
+
+## What I Build
+
+- Large-scale web applications with complex business logic  
+- Internal tools and management platforms  
+- Systems involving real-time operations, transactions, and user flows  
+- Products where UX, performance, and reliability are critical  
+
+## Focus
+
+Currently focused on improving:
+- System architecture for scalable applications  
+- Data consistency and transactional integrity  
+- Advanced UX patterns for complex workflows  
+
+## Contact
+
+- Email: nicolau.navarro.arroyo@gmail.com  
+- LinkedIn: 
